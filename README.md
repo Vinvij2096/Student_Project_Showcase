@@ -6,8 +6,8 @@ Welcome! This repository showcases a collection of small but focused projects I'
 ### 1. Battery Storage Simulation (Python)
 A basic simulation of battery charging and discharging logic based on solar energy production and energy demand. 
 Features:
-- Simulated hourly sample data solar input and demand
-- Charging/discharging with assumed efficiency losses
+- Simulated hourly sample data solar input and demand.
+- Charging/discharging with assumed efficiency losses.
 - Visualization using Matplotlib.
 - Potential to enhance by incorporating user input for customizable scenarios.
 > Technologies: `Python`, `Pandas`, `Matplotlib`
@@ -16,25 +16,26 @@ Features:
 ### 2. Road Accident Dashboard (Excel + VBA)
 An interactive dashboard to visualize road accident data within the years 2021-2022. 
 Includes:
-- Auto-rotating vehicle category views using `VBA`
-- Filterable charts
-- Clean visual layout with grouped shapes
+- Data analysis, cleaning and then filtering using Pivot Tables.
+- Interactive buttons and links for quick access to sources and easy navigation within the Excel sheet.
+- interactive charts.
+- Auto-rotating vehicle category views using VBA.
 
 > Tools: `Excel`, `Pivot Tables`,`VLookup`,`Slicers`, `Custom Macros`,`VBA`
 
 
 ### 3. Spatial Risk Mapping (QGIS)
 Experimental use of QGIS to create raster-based maps. Demonstrated:
-- Raster calculator usage
-- Visualization of spatial data
-- Thematic layering
+- Raster calculator usage.
+- Visualization of spatial data.
+- Thematic layering.
 
 > Tools: `QGIS`, `Raster`, `OpenStreetMap`, `Mask Layers`
 
 
 Here are some projects I’ve worked on to get hands-on experience with:
-- Data analysis
-- Automating processes
+- Data analysis.
+- Automating processes.
 
 
 More projects on the way!
