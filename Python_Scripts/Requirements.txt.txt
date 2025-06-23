@@ -1,0 +1,3 @@
+# To ensure this project runs correctly, please install the required packages below:
+    pandas
+    matplotlib

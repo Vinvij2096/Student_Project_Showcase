@@ -1,0 +1,1 @@
+# To fully use the Excel dashboard, make sure that macros are enabled in your Excel settings. The dashboard relies on VBA macros to automate data rotation and interactive features. Without macros enabled, some functionality may not work properly.
