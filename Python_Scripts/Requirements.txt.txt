@@ -1,3 +1,5 @@
-# To ensure this project runs correctly, please install the required packages below:
+# To ensure these projects runs correctly, please install the required packages below:
     pandas
     matplotlib
+    heapq
+    numpy

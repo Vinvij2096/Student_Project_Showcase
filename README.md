@@ -1,7 +1,8 @@
-
+ 
 Welcome! This repository showcases a collection of small but focused projects I've worked on using **Python**, **Excel/VBA**, and **QGIS**. These projects demonstrate my interest in data analysis and automation.
 
 ## Projects
+
 
 ### 1. Battery Storage Simulation (Python)
 A basic simulation of battery charging and discharging logic based on assumed figures of solar energy production and energy demand. 
@@ -11,6 +12,21 @@ Features:
 - Visualization using Matplotlib.
 - Potential to enhance by incorporating user input for customizable scenarios.
 > Technologies: `Python`, `Pandas`, `Matplotlib`
+
+### 2. Pathfinding Simulation (Python)
+A grid-based pathfinding program that finds the shortest path using A* search.  
+- Interactive user input for start and goal positions.  
+- Randomised obstacle location on a 10x10 grid made using numpy.  
+- Visualizes the path using Matplotlib.  
+> Technologies: `Python`, `NumPy`, `Matplotlib`
+
+### 3. Snake Game (Python)
+A classic snake game built with modular Python code using the `turtle` graphics library.  
+- Responsive key controls and clean gameplay.
+- Separate modules for snake behavior, food spawning, and scoring.  
+- Accurate collision detection food, walls, and self.  
+- Optimized frame updates for smooth animation.
+> Technologies: `Python`, `turtle`
 
 
 ### 2. Road Accident Dashboard (Excel + VBA)
