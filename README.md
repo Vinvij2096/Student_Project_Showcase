@@ -14,10 +14,10 @@ Features:
 > Technologies: `Python`, `Pandas`, `Matplotlib`
 
 ### 2. Pathfinding Simulation (Python)
-A grid-based pathfinding program that finds the shortest path using A* search.  
+A grid-based pathfinding program that finds the shortest path.  
 - Interactive user input for start and goal positions.  
 - Randomised obstacle location on a 10x10 grid made using numpy.  
-- Visualizes the path using Matplotlib.  
+- Visualizes the path taken using Matplotlib. 
 > Technologies: `Python`, `NumPy`, `Matplotlib`
 
 ### 3. Snake Game (Python)
